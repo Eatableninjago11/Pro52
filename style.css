@@ -1,0 +1,17 @@
+.header{
+    background-color: #3c3cd3;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+a:link{
+    color: purple;
+}
+
+a:visited{
+    color: purple;
+}
